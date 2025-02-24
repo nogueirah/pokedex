@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Projetos\\pokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9894E7D-1BAA-411A-8C37-00140E3BA203}|src\\PokeWorkerService\\PokeWorkerService.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9894E7D-1BAA-411A-8C37-00140E3BA203}|src\\PokeWorkerService\\PokeWorkerService.csproj|solutionrelative:src\\pokeworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9894E7D-1BAA-411A-8C37-00140E3BA203}|src\\PokeWorkerService\\PokeWorkerService.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9894E7D-1BAA-411A-8C37-00140E3BA203}|src\\PokeWorkerService\\PokeWorkerService.csproj|solutionrelative:src\\pokeworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|c:\\dev\\projetos\\pokemon\\src\\pokewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|solutionrelative:src\\pokewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|c:\\dev\\projetos\\pokemon\\src\\pokewebapi\\models\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|solutionrelative:src\\pokewebapi\\models\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|c:\\dev\\projetos\\pokemon\\src\\pokewebapi\\controller\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|solutionrelative:src\\pokewebapi\\controller\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|c:\\dev\\projetos\\pokemon\\src\\pokewebapi\\client-app\\vue-project\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|solutionrelative:src\\pokewebapi\\client-app\\vue-project\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeinfrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|solutionrelative:src\\pokeinfrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeinfrastructure\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|solutionrelative:src\\pokeinfrastructure\\repositories\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeinfrastructure\\repositories\\identityhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|solutionrelative:src\\pokeinfrastructure\\repositories\\identityhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeinfrastructure\\pokeinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}|src\\PokeInfrastructure\\PokeInfrastructure.csproj|solutionrelative:src\\pokeinfrastructure\\pokeinfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AB588-182E-4D48-A839-6D701ACA34EE}|src\\PokeDomain\\PokeDomain.csproj|c:\\dev\\projetos\\pokemon\\src\\pokedomain\\interfaces\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AB588-182E-4D48-A839-6D701ACA34EE}|src\\PokeDomain\\PokeDomain.csproj|solutionrelative:src\\pokedomain\\interfaces\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67BB883-91CE-4BDE-9FB8-E54375A80B52}|src\\PokeApplication\\PokeApplication.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeapplication\\services\\pokedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67BB883-91CE-4BDE-9FB8-E54375A80B52}|src\\PokeApplication\\PokeApplication.csproj|solutionrelative:src\\pokeapplication\\services\\pokedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67BB883-91CE-4BDE-9FB8-E54375A80B52}|src\\PokeApplication\\PokeApplication.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeapplication\\interfaces\\ipokedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67BB883-91CE-4BDE-9FB8-E54375A80B52}|src\\PokeApplication\\PokeApplication.csproj|solutionrelative:src\\pokeapplication\\interfaces\\ipokedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|c:\\dev\\projetos\\pokemon\\src\\pokewebapi\\client-app\\vue-project\\src\\components\\pokemongrid.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|solutionrelative:src\\pokewebapi\\client-app\\vue-project\\src\\components\\pokemongrid.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|c:\\dev\\projetos\\pokemon\\src\\pokewebapi\\client-app\\vue-project\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}|src\\PokeWebApi\\PokeWebApi.csproj|solutionrelative:src\\pokewebapi\\client-app\\vue-project\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AB588-182E-4D48-A839-6D701ACA34EE}|src\\PokeDomain\\PokeDomain.csproj|c:\\dev\\projetos\\pokemon\\src\\pokedomain\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AB588-182E-4D48-A839-6D701ACA34EE}|src\\PokeDomain\\PokeDomain.csproj|solutionrelative:src\\pokedomain\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}|src\\PokeJobs\\PokeJobs.csproj|c:\\dev\\projetos\\pokemon\\src\\pokejobs\\jobs\\pokedataupsertjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}|src\\PokeJobs\\PokeJobs.csproj|solutionrelative:src\\pokejobs\\jobs\\pokedataupsertjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}|src\\PokeJobs\\PokeJobs.csproj|c:\\dev\\projetos\\pokemon\\src\\pokejobs\\pokejobs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}|src\\PokeJobs\\PokeJobs.csproj|solutionrelative:src\\pokejobs\\pokejobs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67BB883-91CE-4BDE-9FB8-E54375A80B52}|src\\PokeApplication\\PokeApplication.csproj|c:\\dev\\projetos\\pokemon\\src\\pokeapplication\\pokeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D67BB883-91CE-4BDE-9FB8-E54375A80B52}|src\\PokeApplication\\PokeApplication.csproj|solutionrelative:src\\pokeapplication\\pokeapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\PokeWorkerService\\Worker.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWorkerService\\Worker.cs",
+              "RelativeToolTip": "src\\PokeWorkerService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:11:24.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PokeWebApi\\Program.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\Program.cs",
+              "RelativeToolTip": "src\\PokeWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:11:13.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\Models\\PokemonDto.cs",
+              "RelativeDocumentMoniker": "src\\PokeWebApi\\Models\\PokemonDto.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\Models\\PokemonDto.cs",
+              "RelativeToolTip": "src\\PokeWebApi\\Models\\PokemonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:11:10.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\client-app\\vue-project\\vite.config.ts",
+              "RelativeDocumentMoniker": "src\\PokeWebApi\\client-app\\vue-project\\vite.config.ts",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\client-app\\vue-project\\vite.config.ts",
+              "RelativeToolTip": "src\\PokeWebApi\\client-app\\vue-project\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-24T03:11:00.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\PokeInfrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "src\\PokeInfrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:10:43.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PokemonGrid.vue",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\client-app\\vue-project\\src\\components\\PokemonGrid.vue",
+              "RelativeDocumentMoniker": "src\\PokeWebApi\\client-app\\vue-project\\src\\components\\PokemonGrid.vue",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\client-app\\vue-project\\src\\components\\PokemonGrid.vue",
+              "RelativeToolTip": "src\\PokeWebApi\\client-app\\vue-project\\src\\components\\PokemonGrid.vue",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv2AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-24T03:05:39.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\client-app\\vue-project\\src\\App.vue",
+              "RelativeDocumentMoniker": "src\\PokeWebApi\\client-app\\vue-project\\src\\App.vue",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\client-app\\vue-project\\src\\App.vue",
+              "RelativeToolTip": "src\\PokeWebApi\\client-app\\vue-project\\src\\App.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-02-24T03:05:35.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityHelpers.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\Repositories\\IdentityHelpers.cs",
+              "RelativeDocumentMoniker": "src\\PokeInfrastructure\\Repositories\\IdentityHelpers.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\Repositories\\IdentityHelpers.cs",
+              "RelativeToolTip": "src\\PokeInfrastructure\\Repositories\\IdentityHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:25:10.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PokemonRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\Repositories\\PokemonRepository.cs",
+              "RelativeDocumentMoniker": "src\\PokeInfrastructure\\Repositories\\PokemonRepository.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\Repositories\\PokemonRepository.cs",
+              "RelativeToolTip": "src\\PokeInfrastructure\\Repositories\\PokemonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:20:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PokeInfrastructure",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\PokeInfrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\PokeInfrastructure\\PokeInfrastructure.csproj",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeInfrastructure\\PokeInfrastructure.csproj",
+              "RelativeToolTip": "src\\PokeInfrastructure\\PokeInfrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T02:20:01.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPokemonRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeDomain\\Interfaces\\IPokemonRepository.cs",
+              "RelativeDocumentMoniker": "src\\PokeDomain\\Interfaces\\IPokemonRepository.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeDomain\\Interfaces\\IPokemonRepository.cs",
+              "RelativeToolTip": "src\\PokeDomain\\Interfaces\\IPokemonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:19:43.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PokeWorkerService\\Program.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWorkerService\\Program.cs",
+              "RelativeToolTip": "src\\PokeWorkerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:09:51.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PokeDataUpsertJob.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeJobs\\Jobs\\PokeDataUpsertJob.cs",
+              "RelativeDocumentMoniker": "src\\PokeJobs\\Jobs\\PokeDataUpsertJob.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeJobs\\Jobs\\PokeDataUpsertJob.cs",
+              "RelativeToolTip": "src\\PokeJobs\\Jobs\\PokeDataUpsertJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:09:34.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeDomain\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "src\\PokeDomain\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeDomain\\Models\\Pokemon.cs",
+              "RelativeToolTip": "src\\PokeDomain\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:07:07.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PokeDataService.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeApplication\\Services\\PokeDataService.cs",
+              "RelativeDocumentMoniker": "src\\PokeApplication\\Services\\PokeDataService.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeApplication\\Services\\PokeDataService.cs",
+              "RelativeToolTip": "src\\PokeApplication\\Services\\PokeDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:03:22.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPokeDataService.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeApplication\\Interfaces\\IPokeDataService.cs",
+              "RelativeDocumentMoniker": "src\\PokeApplication\\Interfaces\\IPokeDataService.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeApplication\\Interfaces\\IPokeDataService.cs",
+              "RelativeToolTip": "src\\PokeApplication\\Interfaces\\IPokeDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:01:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\Controller\\PokemonController.cs",
+              "RelativeDocumentMoniker": "src\\PokeWebApi\\Controller\\PokemonController.cs",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeWebApi\\Controller\\PokemonController.cs",
+              "RelativeToolTip": "src\\PokeWebApi\\Controller\\PokemonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:01:03.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PokeJobs",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeJobs\\PokeJobs.csproj",
+              "RelativeDocumentMoniker": "src\\PokeJobs\\PokeJobs.csproj",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeJobs\\PokeJobs.csproj",
+              "RelativeToolTip": "src\\PokeJobs\\PokeJobs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T02:09:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PokeApplication",
+              "DocumentMoniker": "C:\\Dev\\Projetos\\pokemon\\src\\PokeApplication\\PokeApplication.csproj",
+              "RelativeDocumentMoniker": "src\\PokeApplication\\PokeApplication.csproj",
+              "ToolTip": "C:\\Dev\\Projetos\\pokemon\\src\\PokeApplication\\PokeApplication.csproj",
+              "RelativeToolTip": "src\\PokeApplication\\PokeApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T02:01:38.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

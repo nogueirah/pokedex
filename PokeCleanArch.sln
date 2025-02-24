@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{41309A2F-E7E4-4D2C-9778-98021B400CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeWebApi", "src\PokeWebApi\PokeWebApi.csproj", "{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeWorkerService", "src\PokeWorkerService\PokeWorkerService.csproj", "{C9894E7D-1BAA-411A-8C37-00140E3BA203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeDomain", "src\PokeDomain\PokeDomain.csproj", "{022AB588-182E-4D48-A839-6D701ACA34EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeApplication", "src\PokeApplication\PokeApplication.csproj", "{D67BB883-91CE-4BDE-9FB8-E54375A80B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeInfrastructure", "src\PokeInfrastructure\PokeInfrastructure.csproj", "{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeJobs", "src\PokeJobs\PokeJobs.csproj", "{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9894E7D-1BAA-411A-8C37-00140E3BA203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9894E7D-1BAA-411A-8C37-00140E3BA203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9894E7D-1BAA-411A-8C37-00140E3BA203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9894E7D-1BAA-411A-8C37-00140E3BA203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022AB588-182E-4D48-A839-6D701ACA34EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022AB588-182E-4D48-A839-6D701ACA34EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022AB588-182E-4D48-A839-6D701ACA34EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022AB588-182E-4D48-A839-6D701ACA34EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67BB883-91CE-4BDE-9FB8-E54375A80B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67BB883-91CE-4BDE-9FB8-E54375A80B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67BB883-91CE-4BDE-9FB8-E54375A80B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67BB883-91CE-4BDE-9FB8-E54375A80B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266A5A12-32B6-4EB7-A4D9-E1A7CB974668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE2A931A-AB4E-4B4C-9CF8-BE3DA13359D8} = {41309A2F-E7E4-4D2C-9778-98021B400CAA}
+		{C9894E7D-1BAA-411A-8C37-00140E3BA203} = {41309A2F-E7E4-4D2C-9778-98021B400CAA}
+		{022AB588-182E-4D48-A839-6D701ACA34EE} = {41309A2F-E7E4-4D2C-9778-98021B400CAA}
+		{D67BB883-91CE-4BDE-9FB8-E54375A80B52} = {41309A2F-E7E4-4D2C-9778-98021B400CAA}
+		{3FEBE0F3-5DBC-4D5D-A6CE-9C327EB227A1} = {41309A2F-E7E4-4D2C-9778-98021B400CAA}
+		{266A5A12-32B6-4EB7-A4D9-E1A7CB974668} = {41309A2F-E7E4-4D2C-9778-98021B400CAA}
+	EndGlobalSection
+EndGlobal
